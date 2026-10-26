@@ -3,7 +3,7 @@
 **Purpose:** the rules for the automation task map, a table with one row per
 repeated task, so anyone extending or re-rating it gets the same kind of row and
 column. The input is the task notes from [find-tasks.md](find-tasks.md); the
-"Sample task entries" tab of the [package doc](https://docs.google.com/document/d/1EqAkE7m0G9qMNDbYkQrEJn74h7t5Rc5WaXGpXIQHZaM/edit) shows six finished rows.
+"Sample tasks" tab of the [package doc](https://docs.google.com/document/d/1EqAkE7m0G9qMNDbYkQrEJn74h7t5Rc5WaXGpXIQHZaM/edit) shows six finished rows.
 
 **Extending:** hours come from [hours.md](hours.md), trait ratings from
 [trait-ratings.md](trait-ratings.md), Integration, Testing and Metrics from
